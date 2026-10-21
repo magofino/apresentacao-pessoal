@@ -1,0 +1,96 @@
+body {
+    font-family: Arial;
+    color: rgb(34, 34, 34);
+    text-align: center;
+}
+
+h1, h2 {
+    color: rgb(31, 60, 92);
+}
+
+/* Card com foto e parágrafos */
+.card_perfil {
+    max-width: 760px;
+}
+
+p {
+    max-width: 700px;
+    margin: 15px auto;
+    text-align: justify;
+}
+
+/* Redes sociais (list group + buttons) */
+.redes_sociais img {
+    width: 70px;
+    height: 70px;
+}
+
+.foto_perfil {
+    width: 300px;
+    border-radius: 50%;
+}
+
+/* list-group das preferências*/
+.lista_gostos {
+    max-width: 500px;
+}
+
+/* ===== TABLET (até 768px) ===== */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    .foto_perfil {
+        width: 250px;
+    }
+
+    p {
+        font-size: 0.95rem;
+    }
+}
+
+/* ===== CELULAR (até 576px) ===== */
+@media (max-width: 576px) {
+    h1 {
+        font-size: 1.7rem;
+    }
+
+    h2 {
+        font-size: 1.3rem;
+    }
+
+    .foto_perfil {
+        width: 200px;
+    }
+
+    p {
+        text-align: left;   /* justificado fica com buracos em tela estreita */
+        font-size: 0.9rem;
+    }
+
+    .redes_sociais img {
+        width: 55px;
+        height: 55px;
+    }
+}
+
+/* ===== CELULAR PEQUENO (até 400px) ===== */
+@media (max-width: 400px) {
+    h1 {
+        font-size: 1.5rem;
+    }
+
+    .foto_perfil {
+        width: 150px;
+    }
+
+    .redes_sociais img {
+        width: 45px;
+        height: 45px;
+    }
+}
