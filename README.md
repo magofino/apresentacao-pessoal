@@ -5,8 +5,8 @@ Página de apresentação pessoal desenvolvida em **HTML, CSS e Bootstrap**, com
 Este projeto é a **Etapa 2** do trabalho de apresentação pessoal. Na etapa 1, a página foi feita só com HTML e CSS. Nesta etapa, ela foi aprimorada com um framework CSS (Bootstrap) e com media queries.
 
 - **Autor:** Rauan Guilherme Faustino Abdon
-- **Disciplina:** [NOME DA DISCIPLINA]
-- **Instituição:** [NOME DA INSTITUIÇÃO]
+- **Disciplina:** AUTORIA WEB
+- **Instituição:** INSTUTO FEDERAL DE EDUCAÇÃO, CIÊNCIAS E TECNOLOGIA DO RIO GRANDE DO NORTE
 
 ---
 
