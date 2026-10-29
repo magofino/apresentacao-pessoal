@@ -76,13 +76,13 @@ QuemSouEu/
 
 > **Atenção:** é preciso estar conectado à internet, porque o Bootstrap é carregado por CDN. Sem internet, a página abre, mas sem os estilos do Bootstrap.
 
-O Bootstrap está ligado por esta linha no `<head>` do `index.html`, antes do `style.css`:
+O Bootstrap está ligado por esta linha no `<head>` do `index.html`, antes do `css/style.css`:
 
 ```html
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 ```
 
-O link vem **antes** do `style.css` para que o CSS próprio possa sobrescrever o do Bootstrap quando necessário.
+O link vem **antes** do `css/style.css` para que o CSS próprio possa sobrescrever o do Bootstrap quando necessário.
 
 ---
 
