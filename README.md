@@ -2,7 +2,7 @@
 
 Página de apresentação pessoal desenvolvida em **HTML, CSS e Bootstrap**, com layout **responsivo** (computador, tablet e celular).
 
-Este projeto é a **Etapa 2** do trabalho de apresentação pessoal. Na etapa 1, a página foi feita só com HTML e CSS. Nesta etapa, ela foi aprimorada com um framework CSS (Bootstrap) e com media queries.
+Este projeto é a **Etapa 3** do trabalho de apresentação pessoal. Na etapa 2 e 3,  a página foi feita só com HTML e CSS. Nesta etapa, ela foi aprimorada com um framework CSS (Bootstrap) e com media queries.
 
 - **Autor:** Rauan Guilherme Faustino Abdon
 - **Disciplina:** AUTORIA WEB
